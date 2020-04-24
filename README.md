@@ -1,4 +1,4 @@
-# surveillance-data
+# surveillance_data
 
 This is a frequently updated repository for Norwegian surveillance data from Folkehelseinstituttet (Norwegian Institute of Public Health).
 
