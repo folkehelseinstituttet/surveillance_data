@@ -1,4 +1,4 @@
-This documentation was last updated on 2020-04-24.
+This documentation was last updated on 2020-06-04.
 
 This is the documentation for the files:
 - data_covid19_msis_by_time_location_YYYY-MM-DD.xlsx
@@ -9,8 +9,8 @@ If something does not appear to be correct, or more documentation is needed in a
 These files are generated automatically each day through an extraction from MSIS.
 
 The variables available are listed below:
-granularity_time: Temporal granularity
-granularity_geo: Geographical granularity
+granularity_time: Temporal granularity (day)
+granularity_geo: Geographical granularity (nation, county)
 location_code: The geographical location
 border: The borders (kommunesammenslåing) that location_code represents
 age: Age in years
@@ -22,3 +22,4 @@ season: Seasons run week 30 -> week 29
 x: Week within season
 date: Date of the data (prøvetakingsdato)
 n: Number of confirmed cases
+location_name: The name of the geographical location

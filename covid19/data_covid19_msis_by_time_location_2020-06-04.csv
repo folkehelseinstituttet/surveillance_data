@@ -1,0 +1,1249 @@
+granularity_time,granularity_geo,location_code,border,age,sex,year,week,yrwk,season,x,date,n,location_name
+day,county,county03,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-21,0,Oslo
+day,county,county03,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-22,0,Oslo
+day,county,county03,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-23,0,Oslo
+day,county,county03,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-24,0,Oslo
+day,county,county03,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-25,0,Oslo
+day,county,county03,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-26,2,Oslo
+day,county,county03,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-27,1,Oslo
+day,county,county03,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-28,0,Oslo
+day,county,county03,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-29,4,Oslo
+day,county,county03,2020,total,total,2020,9,2020-09,2019/2020,32,2020-03-01,0,Oslo
+day,county,county03,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-02,3,Oslo
+day,county,county03,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-03,5,Oslo
+day,county,county03,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-04,2,Oslo
+day,county,county03,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-05,2,Oslo
+day,county,county03,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-06,10,Oslo
+day,county,county03,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-07,4,Oslo
+day,county,county03,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-08,13,Oslo
+day,county,county03,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-09,45,Oslo
+day,county,county03,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-10,70,Oslo
+day,county,county03,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-11,45,Oslo
+day,county,county03,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-12,49,Oslo
+day,county,county03,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-13,25,Oslo
+day,county,county03,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-14,22,Oslo
+day,county,county03,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-15,20,Oslo
+day,county,county03,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-16,30,Oslo
+day,county,county03,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-17,42,Oslo
+day,county,county03,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-18,47,Oslo
+day,county,county03,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-19,49,Oslo
+day,county,county03,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-20,90,Oslo
+day,county,county03,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-21,53,Oslo
+day,county,county03,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-22,55,Oslo
+day,county,county03,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-23,75,Oslo
+day,county,county03,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-24,94,Oslo
+day,county,county03,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-25,86,Oslo
+day,county,county03,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-26,108,Oslo
+day,county,county03,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-27,97,Oslo
+day,county,county03,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-28,53,Oslo
+day,county,county03,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-29,40,Oslo
+day,county,county03,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-30,80,Oslo
+day,county,county03,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-31,75,Oslo
+day,county,county03,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-01,68,Oslo
+day,county,county03,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-02,78,Oslo
+day,county,county03,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-03,61,Oslo
+day,county,county03,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-04,36,Oslo
+day,county,county03,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-05,27,Oslo
+day,county,county03,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-06,49,Oslo
+day,county,county03,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-07,53,Oslo
+day,county,county03,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-08,42,Oslo
+day,county,county03,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-09,49,Oslo
+day,county,county03,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-10,30,Oslo
+day,county,county03,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-11,37,Oslo
+day,county,county03,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-12,33,Oslo
+day,county,county03,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-13,32,Oslo
+day,county,county03,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-14,41,Oslo
+day,county,county03,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-15,44,Oslo
+day,county,county03,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-16,24,Oslo
+day,county,county03,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-17,37,Oslo
+day,county,county03,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-18,17,Oslo
+day,county,county03,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-19,26,Oslo
+day,county,county03,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-20,37,Oslo
+day,county,county03,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-21,30,Oslo
+day,county,county03,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-22,36,Oslo
+day,county,county03,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-23,13,Oslo
+day,county,county03,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-24,15,Oslo
+day,county,county03,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-25,9,Oslo
+day,county,county03,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-26,19,Oslo
+day,county,county03,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-27,18,Oslo
+day,county,county03,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-28,19,Oslo
+day,county,county03,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-29,12,Oslo
+day,county,county03,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-30,13,Oslo
+day,county,county03,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-01,22,Oslo
+day,county,county03,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-02,8,Oslo
+day,county,county03,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-03,22,Oslo
+day,county,county03,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-04,16,Oslo
+day,county,county03,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-05,19,Oslo
+day,county,county03,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-06,14,Oslo
+day,county,county03,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-07,11,Oslo
+day,county,county03,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-08,17,Oslo
+day,county,county03,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-09,4,Oslo
+day,county,county03,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-10,4,Oslo
+day,county,county03,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-11,7,Oslo
+day,county,county03,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-12,4,Oslo
+day,county,county03,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-13,5,Oslo
+day,county,county03,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-14,9,Oslo
+day,county,county03,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-15,4,Oslo
+day,county,county03,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-16,3,Oslo
+day,county,county03,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-17,0,Oslo
+day,county,county03,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-18,5,Oslo
+day,county,county03,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-19,5,Oslo
+day,county,county03,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-20,6,Oslo
+day,county,county03,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-21,11,Oslo
+day,county,county03,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-22,11,Oslo
+day,county,county03,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-23,5,Oslo
+day,county,county03,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-24,3,Oslo
+day,county,county03,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-25,5,Oslo
+day,county,county03,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-26,2,Oslo
+day,county,county03,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-27,6,Oslo
+day,county,county03,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-28,6,Oslo
+day,county,county03,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-29,3,Oslo
+day,county,county03,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-30,0,Oslo
+day,county,county03,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-31,2,Oslo
+day,county,county03,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-01,4,Oslo
+day,county,county03,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-02,16,Oslo
+day,county,county03,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-03,0,Oslo
+day,county,county11,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-21,0,Rogaland
+day,county,county11,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-22,0,Rogaland
+day,county,county11,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-23,0,Rogaland
+day,county,county11,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-24,0,Rogaland
+day,county,county11,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-25,0,Rogaland
+day,county,county11,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-26,0,Rogaland
+day,county,county11,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-27,0,Rogaland
+day,county,county11,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-28,0,Rogaland
+day,county,county11,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-29,2,Rogaland
+day,county,county11,2020,total,total,2020,9,2020-09,2019/2020,32,2020-03-01,0,Rogaland
+day,county,county11,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-02,2,Rogaland
+day,county,county11,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-03,2,Rogaland
+day,county,county11,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-04,2,Rogaland
+day,county,county11,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-05,4,Rogaland
+day,county,county11,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-06,4,Rogaland
+day,county,county11,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-07,4,Rogaland
+day,county,county11,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-08,11,Rogaland
+day,county,county11,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-09,40,Rogaland
+day,county,county11,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-10,34,Rogaland
+day,county,county11,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-11,27,Rogaland
+day,county,county11,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-12,19,Rogaland
+day,county,county11,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-13,11,Rogaland
+day,county,county11,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-14,2,Rogaland
+day,county,county11,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-15,8,Rogaland
+day,county,county11,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-16,15,Rogaland
+day,county,county11,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-17,16,Rogaland
+day,county,county11,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-18,17,Rogaland
+day,county,county11,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-19,23,Rogaland
+day,county,county11,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-20,24,Rogaland
+day,county,county11,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-21,7,Rogaland
+day,county,county11,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-22,3,Rogaland
+day,county,county11,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-23,18,Rogaland
+day,county,county11,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-24,14,Rogaland
+day,county,county11,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-25,7,Rogaland
+day,county,county11,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-26,10,Rogaland
+day,county,county11,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-27,8,Rogaland
+day,county,county11,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-28,11,Rogaland
+day,county,county11,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-29,4,Rogaland
+day,county,county11,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-30,9,Rogaland
+day,county,county11,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-31,3,Rogaland
+day,county,county11,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-01,6,Rogaland
+day,county,county11,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-02,8,Rogaland
+day,county,county11,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-03,2,Rogaland
+day,county,county11,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-04,2,Rogaland
+day,county,county11,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-05,1,Rogaland
+day,county,county11,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-06,2,Rogaland
+day,county,county11,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-07,4,Rogaland
+day,county,county11,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-08,1,Rogaland
+day,county,county11,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-09,0,Rogaland
+day,county,county11,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-10,1,Rogaland
+day,county,county11,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-11,0,Rogaland
+day,county,county11,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-12,1,Rogaland
+day,county,county11,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-13,1,Rogaland
+day,county,county11,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-14,1,Rogaland
+day,county,county11,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-15,1,Rogaland
+day,county,county11,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-16,2,Rogaland
+day,county,county11,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-17,1,Rogaland
+day,county,county11,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-18,0,Rogaland
+day,county,county11,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-19,0,Rogaland
+day,county,county11,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-20,3,Rogaland
+day,county,county11,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-21,2,Rogaland
+day,county,county11,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-22,0,Rogaland
+day,county,county11,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-23,22,Rogaland
+day,county,county11,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-24,0,Rogaland
+day,county,county11,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-25,0,Rogaland
+day,county,county11,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-26,0,Rogaland
+day,county,county11,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-27,8,Rogaland
+day,county,county11,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-28,0,Rogaland
+day,county,county11,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-29,4,Rogaland
+day,county,county11,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-30,0,Rogaland
+day,county,county11,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-01,0,Rogaland
+day,county,county11,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-02,0,Rogaland
+day,county,county11,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-03,0,Rogaland
+day,county,county11,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-04,1,Rogaland
+day,county,county11,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-05,0,Rogaland
+day,county,county11,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-06,1,Rogaland
+day,county,county11,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-07,0,Rogaland
+day,county,county11,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-08,0,Rogaland
+day,county,county11,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-09,0,Rogaland
+day,county,county11,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-10,0,Rogaland
+day,county,county11,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-11,0,Rogaland
+day,county,county11,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-12,1,Rogaland
+day,county,county11,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-13,0,Rogaland
+day,county,county11,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-14,0,Rogaland
+day,county,county11,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-15,0,Rogaland
+day,county,county11,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-16,0,Rogaland
+day,county,county11,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-17,0,Rogaland
+day,county,county11,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-18,0,Rogaland
+day,county,county11,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-19,0,Rogaland
+day,county,county11,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-20,0,Rogaland
+day,county,county11,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-21,0,Rogaland
+day,county,county11,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-22,0,Rogaland
+day,county,county11,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-23,0,Rogaland
+day,county,county11,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-24,0,Rogaland
+day,county,county11,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-25,0,Rogaland
+day,county,county11,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-26,0,Rogaland
+day,county,county11,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-27,0,Rogaland
+day,county,county11,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-28,1,Rogaland
+day,county,county11,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-29,0,Rogaland
+day,county,county11,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-30,0,Rogaland
+day,county,county11,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-31,0,Rogaland
+day,county,county11,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-01,0,Rogaland
+day,county,county11,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-02,0,Rogaland
+day,county,county11,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-03,0,Rogaland
+day,county,county15,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-21,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-22,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-23,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-24,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-25,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-26,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-27,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-28,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-29,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,9,2020-09,2019/2020,32,2020-03-01,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-02,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-03,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-04,2,Møre og Romsdal
+day,county,county15,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-05,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-06,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-07,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-08,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-09,4,Møre og Romsdal
+day,county,county15,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-10,1,Møre og Romsdal
+day,county,county15,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-11,3,Møre og Romsdal
+day,county,county15,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-12,8,Møre og Romsdal
+day,county,county15,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-13,3,Møre og Romsdal
+day,county,county15,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-14,1,Møre og Romsdal
+day,county,county15,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-15,1,Møre og Romsdal
+day,county,county15,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-16,9,Møre og Romsdal
+day,county,county15,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-17,3,Møre og Romsdal
+day,county,county15,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-18,5,Møre og Romsdal
+day,county,county15,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-19,10,Møre og Romsdal
+day,county,county15,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-20,7,Møre og Romsdal
+day,county,county15,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-21,6,Møre og Romsdal
+day,county,county15,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-22,2,Møre og Romsdal
+day,county,county15,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-23,7,Møre og Romsdal
+day,county,county15,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-24,6,Møre og Romsdal
+day,county,county15,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-25,7,Møre og Romsdal
+day,county,county15,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-26,10,Møre og Romsdal
+day,county,county15,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-27,3,Møre og Romsdal
+day,county,county15,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-28,2,Møre og Romsdal
+day,county,county15,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-29,4,Møre og Romsdal
+day,county,county15,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-30,5,Møre og Romsdal
+day,county,county15,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-31,2,Møre og Romsdal
+day,county,county15,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-01,1,Møre og Romsdal
+day,county,county15,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-02,2,Møre og Romsdal
+day,county,county15,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-03,3,Møre og Romsdal
+day,county,county15,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-04,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-05,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-06,1,Møre og Romsdal
+day,county,county15,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-07,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-08,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-09,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-10,1,Møre og Romsdal
+day,county,county15,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-11,1,Møre og Romsdal
+day,county,county15,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-12,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-13,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-14,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-15,1,Møre og Romsdal
+day,county,county15,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-16,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-17,1,Møre og Romsdal
+day,county,county15,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-18,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-19,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-20,2,Møre og Romsdal
+day,county,county15,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-21,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-22,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-23,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-24,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-25,1,Møre og Romsdal
+day,county,county15,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-26,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-27,1,Møre og Romsdal
+day,county,county15,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-28,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-29,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-30,1,Møre og Romsdal
+day,county,county15,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-01,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-02,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-03,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-04,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-05,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-06,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-07,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-08,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-09,1,Møre og Romsdal
+day,county,county15,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-10,3,Møre og Romsdal
+day,county,county15,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-11,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-12,1,Møre og Romsdal
+day,county,county15,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-13,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-14,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-15,1,Møre og Romsdal
+day,county,county15,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-16,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-17,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-18,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-19,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-20,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-21,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-22,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-23,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-24,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-25,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-26,2,Møre og Romsdal
+day,county,county15,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-27,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-28,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-29,6,Møre og Romsdal
+day,county,county15,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-30,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-31,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-01,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-02,0,Møre og Romsdal
+day,county,county15,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-03,0,Møre og Romsdal
+day,county,county18,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-21,0,Nordland
+day,county,county18,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-22,0,Nordland
+day,county,county18,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-23,0,Nordland
+day,county,county18,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-24,0,Nordland
+day,county,county18,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-25,0,Nordland
+day,county,county18,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-26,0,Nordland
+day,county,county18,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-27,0,Nordland
+day,county,county18,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-28,0,Nordland
+day,county,county18,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-29,0,Nordland
+day,county,county18,2020,total,total,2020,9,2020-09,2019/2020,32,2020-03-01,0,Nordland
+day,county,county18,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-02,0,Nordland
+day,county,county18,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-03,0,Nordland
+day,county,county18,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-04,0,Nordland
+day,county,county18,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-05,3,Nordland
+day,county,county18,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-06,0,Nordland
+day,county,county18,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-07,0,Nordland
+day,county,county18,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-08,0,Nordland
+day,county,county18,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-09,1,Nordland
+day,county,county18,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-10,1,Nordland
+day,county,county18,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-11,3,Nordland
+day,county,county18,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-12,1,Nordland
+day,county,county18,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-13,1,Nordland
+day,county,county18,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-14,2,Nordland
+day,county,county18,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-15,1,Nordland
+day,county,county18,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-16,2,Nordland
+day,county,county18,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-17,4,Nordland
+day,county,county18,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-18,0,Nordland
+day,county,county18,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-19,0,Nordland
+day,county,county18,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-20,2,Nordland
+day,county,county18,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-21,2,Nordland
+day,county,county18,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-22,1,Nordland
+day,county,county18,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-23,5,Nordland
+day,county,county18,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-24,1,Nordland
+day,county,county18,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-25,8,Nordland
+day,county,county18,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-26,6,Nordland
+day,county,county18,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-27,3,Nordland
+day,county,county18,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-28,3,Nordland
+day,county,county18,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-29,1,Nordland
+day,county,county18,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-30,11,Nordland
+day,county,county18,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-31,4,Nordland
+day,county,county18,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-01,6,Nordland
+day,county,county18,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-02,2,Nordland
+day,county,county18,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-03,1,Nordland
+day,county,county18,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-04,1,Nordland
+day,county,county18,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-05,1,Nordland
+day,county,county18,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-06,5,Nordland
+day,county,county18,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-07,6,Nordland
+day,county,county18,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-08,3,Nordland
+day,county,county18,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-09,0,Nordland
+day,county,county18,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-10,3,Nordland
+day,county,county18,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-11,4,Nordland
+day,county,county18,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-12,0,Nordland
+day,county,county18,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-13,5,Nordland
+day,county,county18,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-14,4,Nordland
+day,county,county18,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-15,3,Nordland
+day,county,county18,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-16,0,Nordland
+day,county,county18,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-17,0,Nordland
+day,county,county18,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-18,1,Nordland
+day,county,county18,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-19,0,Nordland
+day,county,county18,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-20,0,Nordland
+day,county,county18,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-21,1,Nordland
+day,county,county18,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-22,1,Nordland
+day,county,county18,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-23,1,Nordland
+day,county,county18,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-24,1,Nordland
+day,county,county18,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-25,0,Nordland
+day,county,county18,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-26,0,Nordland
+day,county,county18,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-27,0,Nordland
+day,county,county18,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-28,0,Nordland
+day,county,county18,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-29,1,Nordland
+day,county,county18,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-30,0,Nordland
+day,county,county18,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-01,1,Nordland
+day,county,county18,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-02,0,Nordland
+day,county,county18,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-03,0,Nordland
+day,county,county18,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-04,0,Nordland
+day,county,county18,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-05,0,Nordland
+day,county,county18,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-06,0,Nordland
+day,county,county18,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-07,0,Nordland
+day,county,county18,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-08,0,Nordland
+day,county,county18,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-09,0,Nordland
+day,county,county18,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-10,0,Nordland
+day,county,county18,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-11,0,Nordland
+day,county,county18,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-12,1,Nordland
+day,county,county18,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-13,0,Nordland
+day,county,county18,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-14,0,Nordland
+day,county,county18,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-15,0,Nordland
+day,county,county18,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-16,0,Nordland
+day,county,county18,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-17,0,Nordland
+day,county,county18,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-18,0,Nordland
+day,county,county18,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-19,2,Nordland
+day,county,county18,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-20,1,Nordland
+day,county,county18,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-21,0,Nordland
+day,county,county18,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-22,0,Nordland
+day,county,county18,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-23,0,Nordland
+day,county,county18,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-24,0,Nordland
+day,county,county18,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-25,0,Nordland
+day,county,county18,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-26,0,Nordland
+day,county,county18,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-27,0,Nordland
+day,county,county18,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-28,0,Nordland
+day,county,county18,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-29,0,Nordland
+day,county,county18,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-30,0,Nordland
+day,county,county18,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-31,0,Nordland
+day,county,county18,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-01,0,Nordland
+day,county,county18,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-02,0,Nordland
+day,county,county18,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-03,0,Nordland
+day,county,county30,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-21,0,Viken
+day,county,county30,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-22,0,Viken
+day,county,county30,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-23,0,Viken
+day,county,county30,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-24,0,Viken
+day,county,county30,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-25,0,Viken
+day,county,county30,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-26,1,Viken
+day,county,county30,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-27,0,Viken
+day,county,county30,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-28,4,Viken
+day,county,county30,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-29,0,Viken
+day,county,county30,2020,total,total,2020,9,2020-09,2019/2020,32,2020-03-01,1,Viken
+day,county,county30,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-02,2,Viken
+day,county,county30,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-03,8,Viken
+day,county,county30,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-04,6,Viken
+day,county,county30,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-05,5,Viken
+day,county,county30,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-06,9,Viken
+day,county,county30,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-07,4,Viken
+day,county,county30,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-08,19,Viken
+day,county,county30,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-09,72,Viken
+day,county,county30,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-10,45,Viken
+day,county,county30,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-11,43,Viken
+day,county,county30,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-12,56,Viken
+day,county,county30,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-13,57,Viken
+day,county,county30,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-14,40,Viken
+day,county,county30,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-15,30,Viken
+day,county,county30,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-16,60,Viken
+day,county,county30,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-17,66,Viken
+day,county,county30,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-18,68,Viken
+day,county,county30,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-19,65,Viken
+day,county,county30,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-20,72,Viken
+day,county,county30,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-21,52,Viken
+day,county,county30,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-22,54,Viken
+day,county,county30,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-23,71,Viken
+day,county,county30,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-24,93,Viken
+day,county,county30,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-25,80,Viken
+day,county,county30,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-26,60,Viken
+day,county,county30,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-27,66,Viken
+day,county,county30,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-28,39,Viken
+day,county,county30,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-29,41,Viken
+day,county,county30,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-30,77,Viken
+day,county,county30,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-31,56,Viken
+day,county,county30,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-01,58,Viken
+day,county,county30,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-02,53,Viken
+day,county,county30,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-03,44,Viken
+day,county,county30,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-04,28,Viken
+day,county,county30,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-05,25,Viken
+day,county,county30,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-06,40,Viken
+day,county,county30,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-07,36,Viken
+day,county,county30,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-08,25,Viken
+day,county,county30,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-09,26,Viken
+day,county,county30,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-10,17,Viken
+day,county,county30,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-11,19,Viken
+day,county,county30,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-12,22,Viken
+day,county,county30,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-13,21,Viken
+day,county,county30,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-14,25,Viken
+day,county,county30,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-15,23,Viken
+day,county,county30,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-16,16,Viken
+day,county,county30,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-17,36,Viken
+day,county,county30,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-18,8,Viken
+day,county,county30,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-19,4,Viken
+day,county,county30,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-20,23,Viken
+day,county,county30,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-21,16,Viken
+day,county,county30,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-22,18,Viken
+day,county,county30,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-23,13,Viken
+day,county,county30,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-24,14,Viken
+day,county,county30,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-25,3,Viken
+day,county,county30,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-26,4,Viken
+day,county,county30,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-27,18,Viken
+day,county,county30,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-28,16,Viken
+day,county,county30,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-29,7,Viken
+day,county,county30,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-30,10,Viken
+day,county,county30,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-01,3,Viken
+day,county,county30,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-02,7,Viken
+day,county,county30,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-03,9,Viken
+day,county,county30,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-04,18,Viken
+day,county,county30,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-05,13,Viken
+day,county,county30,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-06,11,Viken
+day,county,county30,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-07,12,Viken
+day,county,county30,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-08,19,Viken
+day,county,county30,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-09,3,Viken
+day,county,county30,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-10,1,Viken
+day,county,county30,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-11,9,Viken
+day,county,county30,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-12,7,Viken
+day,county,county30,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-13,10,Viken
+day,county,county30,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-14,7,Viken
+day,county,county30,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-15,10,Viken
+day,county,county30,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-16,6,Viken
+day,county,county30,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-17,2,Viken
+day,county,county30,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-18,10,Viken
+day,county,county30,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-19,7,Viken
+day,county,county30,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-20,8,Viken
+day,county,county30,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-21,1,Viken
+day,county,county30,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-22,10,Viken
+day,county,county30,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-23,0,Viken
+day,county,county30,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-24,3,Viken
+day,county,county30,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-25,8,Viken
+day,county,county30,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-26,4,Viken
+day,county,county30,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-27,8,Viken
+day,county,county30,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-28,3,Viken
+day,county,county30,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-29,3,Viken
+day,county,county30,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-30,0,Viken
+day,county,county30,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-31,2,Viken
+day,county,county30,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-01,2,Viken
+day,county,county30,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-02,1,Viken
+day,county,county30,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-03,0,Viken
+day,county,county34,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-21,0,Innlandet
+day,county,county34,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-22,0,Innlandet
+day,county,county34,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-23,0,Innlandet
+day,county,county34,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-24,0,Innlandet
+day,county,county34,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-25,0,Innlandet
+day,county,county34,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-26,0,Innlandet
+day,county,county34,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-27,0,Innlandet
+day,county,county34,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-28,0,Innlandet
+day,county,county34,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-29,0,Innlandet
+day,county,county34,2020,total,total,2020,9,2020-09,2019/2020,32,2020-03-01,3,Innlandet
+day,county,county34,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-02,0,Innlandet
+day,county,county34,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-03,1,Innlandet
+day,county,county34,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-04,3,Innlandet
+day,county,county34,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-05,7,Innlandet
+day,county,county34,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-06,0,Innlandet
+day,county,county34,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-07,4,Innlandet
+day,county,county34,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-08,1,Innlandet
+day,county,county34,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-09,12,Innlandet
+day,county,county34,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-10,23,Innlandet
+day,county,county34,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-11,8,Innlandet
+day,county,county34,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-12,15,Innlandet
+day,county,county34,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-13,11,Innlandet
+day,county,county34,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-14,10,Innlandet
+day,county,county34,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-15,8,Innlandet
+day,county,county34,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-16,14,Innlandet
+day,county,county34,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-17,7,Innlandet
+day,county,county34,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-18,13,Innlandet
+day,county,county34,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-19,26,Innlandet
+day,county,county34,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-20,18,Innlandet
+day,county,county34,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-21,9,Innlandet
+day,county,county34,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-22,3,Innlandet
+day,county,county34,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-23,23,Innlandet
+day,county,county34,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-24,28,Innlandet
+day,county,county34,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-25,8,Innlandet
+day,county,county34,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-26,24,Innlandet
+day,county,county34,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-27,13,Innlandet
+day,county,county34,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-28,22,Innlandet
+day,county,county34,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-29,1,Innlandet
+day,county,county34,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-30,11,Innlandet
+day,county,county34,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-31,15,Innlandet
+day,county,county34,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-01,13,Innlandet
+day,county,county34,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-02,5,Innlandet
+day,county,county34,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-03,6,Innlandet
+day,county,county34,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-04,5,Innlandet
+day,county,county34,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-05,2,Innlandet
+day,county,county34,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-06,11,Innlandet
+day,county,county34,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-07,5,Innlandet
+day,county,county34,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-08,3,Innlandet
+day,county,county34,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-09,1,Innlandet
+day,county,county34,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-10,1,Innlandet
+day,county,county34,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-11,3,Innlandet
+day,county,county34,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-12,1,Innlandet
+day,county,county34,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-13,2,Innlandet
+day,county,county34,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-14,4,Innlandet
+day,county,county34,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-15,3,Innlandet
+day,county,county34,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-16,4,Innlandet
+day,county,county34,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-17,3,Innlandet
+day,county,county34,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-18,2,Innlandet
+day,county,county34,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-19,1,Innlandet
+day,county,county34,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-20,3,Innlandet
+day,county,county34,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-21,3,Innlandet
+day,county,county34,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-22,3,Innlandet
+day,county,county34,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-23,1,Innlandet
+day,county,county34,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-24,5,Innlandet
+day,county,county34,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-25,0,Innlandet
+day,county,county34,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-26,1,Innlandet
+day,county,county34,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-27,4,Innlandet
+day,county,county34,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-28,2,Innlandet
+day,county,county34,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-29,6,Innlandet
+day,county,county34,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-30,1,Innlandet
+day,county,county34,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-01,1,Innlandet
+day,county,county34,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-02,0,Innlandet
+day,county,county34,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-03,4,Innlandet
+day,county,county34,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-04,4,Innlandet
+day,county,county34,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-05,3,Innlandet
+day,county,county34,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-06,3,Innlandet
+day,county,county34,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-07,1,Innlandet
+day,county,county34,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-08,3,Innlandet
+day,county,county34,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-09,0,Innlandet
+day,county,county34,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-10,3,Innlandet
+day,county,county34,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-11,4,Innlandet
+day,county,county34,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-12,1,Innlandet
+day,county,county34,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-13,3,Innlandet
+day,county,county34,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-14,4,Innlandet
+day,county,county34,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-15,2,Innlandet
+day,county,county34,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-16,0,Innlandet
+day,county,county34,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-17,0,Innlandet
+day,county,county34,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-18,0,Innlandet
+day,county,county34,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-19,3,Innlandet
+day,county,county34,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-20,3,Innlandet
+day,county,county34,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-21,1,Innlandet
+day,county,county34,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-22,3,Innlandet
+day,county,county34,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-23,0,Innlandet
+day,county,county34,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-24,0,Innlandet
+day,county,county34,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-25,5,Innlandet
+day,county,county34,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-26,1,Innlandet
+day,county,county34,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-27,4,Innlandet
+day,county,county34,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-28,1,Innlandet
+day,county,county34,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-29,4,Innlandet
+day,county,county34,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-30,0,Innlandet
+day,county,county34,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-31,2,Innlandet
+day,county,county34,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-01,1,Innlandet
+day,county,county34,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-02,1,Innlandet
+day,county,county34,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-03,0,Innlandet
+day,county,county38,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-21,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-22,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-23,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-24,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-25,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-26,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-27,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-28,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-29,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,9,2020-09,2019/2020,32,2020-03-01,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-02,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-03,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-04,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-05,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-06,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-07,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-08,3,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-09,14,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-10,14,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-11,11,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-12,14,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-13,5,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-14,3,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-15,4,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-16,6,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-17,9,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-18,12,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-19,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-20,8,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-21,2,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-22,5,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-23,11,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-24,9,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-25,9,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-26,8,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-27,11,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-28,9,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-29,6,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-30,9,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-31,6,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-01,4,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-02,13,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-03,10,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-04,6,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-05,5,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-06,5,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-07,2,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-08,3,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-09,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-10,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-11,6,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-12,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-13,2,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-14,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-15,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-16,7,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-17,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-18,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-19,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-20,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-21,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-22,3,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-23,3,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-24,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-25,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-26,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-27,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-28,2,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-29,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-30,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-01,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-02,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-03,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-04,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-05,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-06,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-07,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-08,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-09,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-10,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-11,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-12,2,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-13,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-14,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-15,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-16,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-17,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-18,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-19,2,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-20,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-21,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-22,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-23,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-24,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-25,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-26,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-27,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-28,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-29,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-30,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-31,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-01,0,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-02,1,Vestfold og Telemark
+day,county,county38,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-03,0,Vestfold og Telemark
+day,county,county42,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-21,0,Agder
+day,county,county42,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-22,0,Agder
+day,county,county42,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-23,0,Agder
+day,county,county42,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-24,0,Agder
+day,county,county42,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-25,0,Agder
+day,county,county42,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-26,0,Agder
+day,county,county42,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-27,0,Agder
+day,county,county42,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-28,0,Agder
+day,county,county42,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-29,0,Agder
+day,county,county42,2020,total,total,2020,9,2020-09,2019/2020,32,2020-03-01,2,Agder
+day,county,county42,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-02,1,Agder
+day,county,county42,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-03,2,Agder
+day,county,county42,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-04,2,Agder
+day,county,county42,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-05,2,Agder
+day,county,county42,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-06,0,Agder
+day,county,county42,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-07,1,Agder
+day,county,county42,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-08,12,Agder
+day,county,county42,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-09,20,Agder
+day,county,county42,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-10,15,Agder
+day,county,county42,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-11,7,Agder
+day,county,county42,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-12,8,Agder
+day,county,county42,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-13,10,Agder
+day,county,county42,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-14,4,Agder
+day,county,county42,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-15,5,Agder
+day,county,county42,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-16,6,Agder
+day,county,county42,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-17,3,Agder
+day,county,county42,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-18,7,Agder
+day,county,county42,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-19,6,Agder
+day,county,county42,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-20,7,Agder
+day,county,county42,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-21,2,Agder
+day,county,county42,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-22,1,Agder
+day,county,county42,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-23,7,Agder
+day,county,county42,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-24,4,Agder
+day,county,county42,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-25,13,Agder
+day,county,county42,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-26,12,Agder
+day,county,county42,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-27,5,Agder
+day,county,county42,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-28,5,Agder
+day,county,county42,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-29,2,Agder
+day,county,county42,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-30,19,Agder
+day,county,county42,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-31,16,Agder
+day,county,county42,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-01,14,Agder
+day,county,county42,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-02,3,Agder
+day,county,county42,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-03,7,Agder
+day,county,county42,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-04,1,Agder
+day,county,county42,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-05,4,Agder
+day,county,county42,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-06,8,Agder
+day,county,county42,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-07,3,Agder
+day,county,county42,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-08,9,Agder
+day,county,county42,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-09,3,Agder
+day,county,county42,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-10,3,Agder
+day,county,county42,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-11,0,Agder
+day,county,county42,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-12,5,Agder
+day,county,county42,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-13,0,Agder
+day,county,county42,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-14,9,Agder
+day,county,county42,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-15,3,Agder
+day,county,county42,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-16,5,Agder
+day,county,county42,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-17,10,Agder
+day,county,county42,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-18,5,Agder
+day,county,county42,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-19,0,Agder
+day,county,county42,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-20,7,Agder
+day,county,county42,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-21,4,Agder
+day,county,county42,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-22,5,Agder
+day,county,county42,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-23,2,Agder
+day,county,county42,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-24,2,Agder
+day,county,county42,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-25,1,Agder
+day,county,county42,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-26,0,Agder
+day,county,county42,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-27,4,Agder
+day,county,county42,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-28,1,Agder
+day,county,county42,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-29,1,Agder
+day,county,county42,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-30,3,Agder
+day,county,county42,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-01,1,Agder
+day,county,county42,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-02,1,Agder
+day,county,county42,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-03,2,Agder
+day,county,county42,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-04,1,Agder
+day,county,county42,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-05,0,Agder
+day,county,county42,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-06,2,Agder
+day,county,county42,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-07,0,Agder
+day,county,county42,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-08,1,Agder
+day,county,county42,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-09,0,Agder
+day,county,county42,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-10,0,Agder
+day,county,county42,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-11,0,Agder
+day,county,county42,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-12,0,Agder
+day,county,county42,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-13,0,Agder
+day,county,county42,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-14,0,Agder
+day,county,county42,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-15,2,Agder
+day,county,county42,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-16,0,Agder
+day,county,county42,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-17,0,Agder
+day,county,county42,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-18,0,Agder
+day,county,county42,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-19,0,Agder
+day,county,county42,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-20,0,Agder
+day,county,county42,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-21,0,Agder
+day,county,county42,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-22,0,Agder
+day,county,county42,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-23,0,Agder
+day,county,county42,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-24,0,Agder
+day,county,county42,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-25,0,Agder
+day,county,county42,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-26,0,Agder
+day,county,county42,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-27,0,Agder
+day,county,county42,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-28,0,Agder
+day,county,county42,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-29,0,Agder
+day,county,county42,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-30,0,Agder
+day,county,county42,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-31,0,Agder
+day,county,county42,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-01,0,Agder
+day,county,county42,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-02,0,Agder
+day,county,county42,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-03,0,Agder
+day,county,county46,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-21,0,Vestland
+day,county,county46,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-22,0,Vestland
+day,county,county46,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-23,0,Vestland
+day,county,county46,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-24,0,Vestland
+day,county,county46,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-25,0,Vestland
+day,county,county46,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-26,0,Vestland
+day,county,county46,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-27,1,Vestland
+day,county,county46,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-28,5,Vestland
+day,county,county46,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-29,0,Vestland
+day,county,county46,2020,total,total,2020,9,2020-09,2019/2020,32,2020-03-01,4,Vestland
+day,county,county46,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-02,3,Vestland
+day,county,county46,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-03,6,Vestland
+day,county,county46,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-04,5,Vestland
+day,county,county46,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-05,4,Vestland
+day,county,county46,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-06,2,Vestland
+day,county,county46,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-07,0,Vestland
+day,county,county46,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-08,1,Vestland
+day,county,county46,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-09,21,Vestland
+day,county,county46,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-10,18,Vestland
+day,county,county46,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-11,16,Vestland
+day,county,county46,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-12,27,Vestland
+day,county,county46,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-13,16,Vestland
+day,county,county46,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-14,6,Vestland
+day,county,county46,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-15,16,Vestland
+day,county,county46,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-16,25,Vestland
+day,county,county46,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-17,19,Vestland
+day,county,county46,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-18,22,Vestland
+day,county,county46,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-19,36,Vestland
+day,county,county46,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-20,36,Vestland
+day,county,county46,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-21,16,Vestland
+day,county,county46,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-22,8,Vestland
+day,county,county46,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-23,40,Vestland
+day,county,county46,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-24,31,Vestland
+day,county,county46,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-25,33,Vestland
+day,county,county46,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-26,28,Vestland
+day,county,county46,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-27,22,Vestland
+day,county,county46,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-28,14,Vestland
+day,county,county46,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-29,2,Vestland
+day,county,county46,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-30,27,Vestland
+day,county,county46,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-31,16,Vestland
+day,county,county46,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-01,13,Vestland
+day,county,county46,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-02,21,Vestland
+day,county,county46,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-03,21,Vestland
+day,county,county46,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-04,5,Vestland
+day,county,county46,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-05,3,Vestland
+day,county,county46,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-06,31,Vestland
+day,county,county46,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-07,16,Vestland
+day,county,county46,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-08,16,Vestland
+day,county,county46,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-09,20,Vestland
+day,county,county46,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-10,2,Vestland
+day,county,county46,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-11,34,Vestland
+day,county,county46,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-12,7,Vestland
+day,county,county46,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-13,8,Vestland
+day,county,county46,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-14,35,Vestland
+day,county,county46,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-15,16,Vestland
+day,county,county46,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-16,15,Vestland
+day,county,county46,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-17,10,Vestland
+day,county,county46,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-18,7,Vestland
+day,county,county46,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-19,1,Vestland
+day,county,county46,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-20,6,Vestland
+day,county,county46,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-21,11,Vestland
+day,county,county46,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-22,6,Vestland
+day,county,county46,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-23,3,Vestland
+day,county,county46,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-24,7,Vestland
+day,county,county46,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-25,3,Vestland
+day,county,county46,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-26,1,Vestland
+day,county,county46,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-27,11,Vestland
+day,county,county46,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-28,4,Vestland
+day,county,county46,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-29,3,Vestland
+day,county,county46,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-30,4,Vestland
+day,county,county46,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-01,1,Vestland
+day,county,county46,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-02,3,Vestland
+day,county,county46,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-03,2,Vestland
+day,county,county46,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-04,0,Vestland
+day,county,county46,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-05,2,Vestland
+day,county,county46,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-06,1,Vestland
+day,county,county46,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-07,1,Vestland
+day,county,county46,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-08,1,Vestland
+day,county,county46,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-09,1,Vestland
+day,county,county46,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-10,0,Vestland
+day,county,county46,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-11,1,Vestland
+day,county,county46,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-12,0,Vestland
+day,county,county46,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-13,0,Vestland
+day,county,county46,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-14,0,Vestland
+day,county,county46,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-15,0,Vestland
+day,county,county46,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-16,0,Vestland
+day,county,county46,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-17,0,Vestland
+day,county,county46,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-18,1,Vestland
+day,county,county46,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-19,1,Vestland
+day,county,county46,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-20,0,Vestland
+day,county,county46,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-21,0,Vestland
+day,county,county46,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-22,1,Vestland
+day,county,county46,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-23,0,Vestland
+day,county,county46,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-24,0,Vestland
+day,county,county46,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-25,0,Vestland
+day,county,county46,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-26,0,Vestland
+day,county,county46,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-27,0,Vestland
+day,county,county46,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-28,0,Vestland
+day,county,county46,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-29,0,Vestland
+day,county,county46,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-30,0,Vestland
+day,county,county46,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-31,0,Vestland
+day,county,county46,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-01,0,Vestland
+day,county,county46,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-02,1,Vestland
+day,county,county46,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-03,1,Vestland
+day,county,county50,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-21,0,Trøndelag
+day,county,county50,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-22,0,Trøndelag
+day,county,county50,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-23,0,Trøndelag
+day,county,county50,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-24,0,Trøndelag
+day,county,county50,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-25,0,Trøndelag
+day,county,county50,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-26,0,Trøndelag
+day,county,county50,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-27,0,Trøndelag
+day,county,county50,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-28,0,Trøndelag
+day,county,county50,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-29,0,Trøndelag
+day,county,county50,2020,total,total,2020,9,2020-09,2019/2020,32,2020-03-01,0,Trøndelag
+day,county,county50,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-02,0,Trøndelag
+day,county,county50,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-03,6,Trøndelag
+day,county,county50,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-04,6,Trøndelag
+day,county,county50,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-05,5,Trøndelag
+day,county,county50,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-06,0,Trøndelag
+day,county,county50,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-07,1,Trøndelag
+day,county,county50,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-08,4,Trøndelag
+day,county,county50,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-09,15,Trøndelag
+day,county,county50,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-10,18,Trøndelag
+day,county,county50,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-11,10,Trøndelag
+day,county,county50,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-12,3,Trøndelag
+day,county,county50,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-13,3,Trøndelag
+day,county,county50,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-14,9,Trøndelag
+day,county,county50,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-15,8,Trøndelag
+day,county,county50,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-16,9,Trøndelag
+day,county,county50,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-17,4,Trøndelag
+day,county,county50,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-18,20,Trøndelag
+day,county,county50,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-19,21,Trøndelag
+day,county,county50,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-20,29,Trøndelag
+day,county,county50,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-21,20,Trøndelag
+day,county,county50,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-22,3,Trøndelag
+day,county,county50,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-23,23,Trøndelag
+day,county,county50,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-24,23,Trøndelag
+day,county,county50,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-25,20,Trøndelag
+day,county,county50,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-26,21,Trøndelag
+day,county,county50,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-27,18,Trøndelag
+day,county,county50,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-28,18,Trøndelag
+day,county,county50,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-29,3,Trøndelag
+day,county,county50,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-30,10,Trøndelag
+day,county,county50,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-31,10,Trøndelag
+day,county,county50,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-01,12,Trøndelag
+day,county,county50,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-02,9,Trøndelag
+day,county,county50,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-03,8,Trøndelag
+day,county,county50,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-04,1,Trøndelag
+day,county,county50,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-05,3,Trøndelag
+day,county,county50,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-06,4,Trøndelag
+day,county,county50,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-07,10,Trøndelag
+day,county,county50,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-08,3,Trøndelag
+day,county,county50,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-09,2,Trøndelag
+day,county,county50,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-10,7,Trøndelag
+day,county,county50,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-11,0,Trøndelag
+day,county,county50,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-12,3,Trøndelag
+day,county,county50,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-13,2,Trøndelag
+day,county,county50,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-14,1,Trøndelag
+day,county,county50,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-15,4,Trøndelag
+day,county,county50,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-16,4,Trøndelag
+day,county,county50,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-17,4,Trøndelag
+day,county,county50,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-18,3,Trøndelag
+day,county,county50,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-19,1,Trøndelag
+day,county,county50,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-20,1,Trøndelag
+day,county,county50,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-21,9,Trøndelag
+day,county,county50,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-22,2,Trøndelag
+day,county,county50,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-23,11,Trøndelag
+day,county,county50,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-24,9,Trøndelag
+day,county,county50,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-25,7,Trøndelag
+day,county,county50,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-26,10,Trøndelag
+day,county,county50,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-27,3,Trøndelag
+day,county,county50,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-28,3,Trøndelag
+day,county,county50,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-29,4,Trøndelag
+day,county,county50,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-30,4,Trøndelag
+day,county,county50,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-01,13,Trøndelag
+day,county,county50,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-02,1,Trøndelag
+day,county,county50,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-03,4,Trøndelag
+day,county,county50,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-04,5,Trøndelag
+day,county,county50,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-05,2,Trøndelag
+day,county,county50,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-06,5,Trøndelag
+day,county,county50,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-07,3,Trøndelag
+day,county,county50,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-08,1,Trøndelag
+day,county,county50,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-09,1,Trøndelag
+day,county,county50,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-10,1,Trøndelag
+day,county,county50,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-11,2,Trøndelag
+day,county,county50,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-12,2,Trøndelag
+day,county,county50,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-13,0,Trøndelag
+day,county,county50,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-14,2,Trøndelag
+day,county,county50,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-15,1,Trøndelag
+day,county,county50,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-16,4,Trøndelag
+day,county,county50,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-17,1,Trøndelag
+day,county,county50,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-18,1,Trøndelag
+day,county,county50,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-19,0,Trøndelag
+day,county,county50,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-20,1,Trøndelag
+day,county,county50,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-21,0,Trøndelag
+day,county,county50,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-22,0,Trøndelag
+day,county,county50,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-23,0,Trøndelag
+day,county,county50,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-24,0,Trøndelag
+day,county,county50,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-25,0,Trøndelag
+day,county,county50,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-26,2,Trøndelag
+day,county,county50,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-27,0,Trøndelag
+day,county,county50,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-28,1,Trøndelag
+day,county,county50,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-29,0,Trøndelag
+day,county,county50,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-30,0,Trøndelag
+day,county,county50,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-31,0,Trøndelag
+day,county,county50,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-01,0,Trøndelag
+day,county,county50,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-02,0,Trøndelag
+day,county,county50,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-03,0,Trøndelag
+day,county,county54,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-21,1,Troms og Finnmark
+day,county,county54,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-22,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-23,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-24,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-25,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-26,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-27,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-28,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-29,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,9,2020-09,2019/2020,32,2020-03-01,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-02,1,Troms og Finnmark
+day,county,county54,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-03,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-04,3,Troms og Finnmark
+day,county,county54,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-05,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-06,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-07,1,Troms og Finnmark
+day,county,county54,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-08,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-09,3,Troms og Finnmark
+day,county,county54,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-10,4,Troms og Finnmark
+day,county,county54,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-11,1,Troms og Finnmark
+day,county,county54,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-12,6,Troms og Finnmark
+day,county,county54,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-13,5,Troms og Finnmark
+day,county,county54,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-14,1,Troms og Finnmark
+day,county,county54,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-15,1,Troms og Finnmark
+day,county,county54,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-16,3,Troms og Finnmark
+day,county,county54,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-17,2,Troms og Finnmark
+day,county,county54,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-18,2,Troms og Finnmark
+day,county,county54,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-19,4,Troms og Finnmark
+day,county,county54,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-20,16,Troms og Finnmark
+day,county,county54,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-21,5,Troms og Finnmark
+day,county,county54,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-22,14,Troms og Finnmark
+day,county,county54,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-23,19,Troms og Finnmark
+day,county,county54,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-24,10,Troms og Finnmark
+day,county,county54,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-25,21,Troms og Finnmark
+day,county,county54,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-26,10,Troms og Finnmark
+day,county,county54,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-27,15,Troms og Finnmark
+day,county,county54,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-28,5,Troms og Finnmark
+day,county,county54,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-29,3,Troms og Finnmark
+day,county,county54,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-30,6,Troms og Finnmark
+day,county,county54,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-31,5,Troms og Finnmark
+day,county,county54,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-01,6,Troms og Finnmark
+day,county,county54,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-02,6,Troms og Finnmark
+day,county,county54,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-03,3,Troms og Finnmark
+day,county,county54,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-04,2,Troms og Finnmark
+day,county,county54,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-05,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-06,3,Troms og Finnmark
+day,county,county54,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-07,2,Troms og Finnmark
+day,county,county54,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-08,1,Troms og Finnmark
+day,county,county54,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-09,1,Troms og Finnmark
+day,county,county54,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-10,2,Troms og Finnmark
+day,county,county54,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-11,4,Troms og Finnmark
+day,county,county54,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-12,3,Troms og Finnmark
+day,county,county54,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-13,4,Troms og Finnmark
+day,county,county54,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-14,1,Troms og Finnmark
+day,county,county54,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-15,5,Troms og Finnmark
+day,county,county54,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-16,3,Troms og Finnmark
+day,county,county54,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-17,5,Troms og Finnmark
+day,county,county54,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-18,5,Troms og Finnmark
+day,county,county54,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-19,3,Troms og Finnmark
+day,county,county54,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-20,2,Troms og Finnmark
+day,county,county54,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-21,1,Troms og Finnmark
+day,county,county54,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-22,3,Troms og Finnmark
+day,county,county54,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-23,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-24,1,Troms og Finnmark
+day,county,county54,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-25,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-26,1,Troms og Finnmark
+day,county,county54,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-27,4,Troms og Finnmark
+day,county,county54,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-28,3,Troms og Finnmark
+day,county,county54,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-29,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-30,2,Troms og Finnmark
+day,county,county54,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-01,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-02,3,Troms og Finnmark
+day,county,county54,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-03,1,Troms og Finnmark
+day,county,county54,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-04,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-05,2,Troms og Finnmark
+day,county,county54,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-06,1,Troms og Finnmark
+day,county,county54,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-07,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-08,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-09,1,Troms og Finnmark
+day,county,county54,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-10,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-11,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-12,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-13,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-14,1,Troms og Finnmark
+day,county,county54,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-15,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-16,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-17,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-18,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-19,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-20,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-21,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-22,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-23,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-24,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-25,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-26,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-27,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-28,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-29,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-30,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-31,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-01,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-02,0,Troms og Finnmark
+day,county,county54,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-03,0,Troms og Finnmark
+day,nation,norge,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-21,1,Norge
+day,nation,norge,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-22,0,Norge
+day,nation,norge,2020,total,total,2020,8,2020-08,2019/2020,31,2020-02-23,0,Norge
+day,nation,norge,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-24,0,Norge
+day,nation,norge,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-25,0,Norge
+day,nation,norge,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-26,3,Norge
+day,nation,norge,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-27,2,Norge
+day,nation,norge,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-28,9,Norge
+day,nation,norge,2020,total,total,2020,9,2020-09,2019/2020,32,2020-02-29,6,Norge
+day,nation,norge,2020,total,total,2020,9,2020-09,2019/2020,32,2020-03-01,10,Norge
+day,nation,norge,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-02,12,Norge
+day,nation,norge,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-03,31,Norge
+day,nation,norge,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-04,32,Norge
+day,nation,norge,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-05,33,Norge
+day,nation,norge,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-06,25,Norge
+day,nation,norge,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-07,20,Norge
+day,nation,norge,2020,total,total,2020,10,2020-10,2019/2020,33,2020-03-08,64,Norge
+day,nation,norge,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-09,247,Norge
+day,nation,norge,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-10,243,Norge
+day,nation,norge,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-11,174,Norge
+day,nation,norge,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-12,206,Norge
+day,nation,norge,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-13,147,Norge
+day,nation,norge,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-14,100,Norge
+day,nation,norge,2020,total,total,2020,11,2020-11,2019/2020,34,2020-03-15,102,Norge
+day,nation,norge,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-16,179,Norge
+day,nation,norge,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-17,175,Norge
+day,nation,norge,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-18,213,Norge
+day,nation,norge,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-19,240,Norge
+day,nation,norge,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-20,309,Norge
+day,nation,norge,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-21,174,Norge
+day,nation,norge,2020,total,total,2020,12,2020-12,2019/2020,35,2020-03-22,149,Norge
+day,nation,norge,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-23,299,Norge
+day,nation,norge,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-24,313,Norge
+day,nation,norge,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-25,292,Norge
+day,nation,norge,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-26,297,Norge
+day,nation,norge,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-27,261,Norge
+day,nation,norge,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-28,181,Norge
+day,nation,norge,2020,total,total,2020,13,2020-13,2019/2020,36,2020-03-29,107,Norge
+day,nation,norge,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-30,264,Norge
+day,nation,norge,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-31,208,Norge
+day,nation,norge,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-01,201,Norge
+day,nation,norge,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-02,200,Norge
+day,nation,norge,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-03,166,Norge
+day,nation,norge,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-04,87,Norge
+day,nation,norge,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-05,71,Norge
+day,nation,norge,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-06,159,Norge
+day,nation,norge,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-07,137,Norge
+day,nation,norge,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-08,106,Norge
+day,nation,norge,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-09,103,Norge
+day,nation,norge,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-10,68,Norge
+day,nation,norge,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-11,108,Norge
+day,nation,norge,2020,total,total,2020,15,2020-15,2019/2020,38,2020-04-12,76,Norge
+day,nation,norge,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-13,77,Norge
+day,nation,norge,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-14,122,Norge
+day,nation,norge,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-15,104,Norge
+day,nation,norge,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-16,80,Norge
+day,nation,norge,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-17,108,Norge
+day,nation,norge,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-18,49,Norge
+day,nation,norge,2020,total,total,2020,16,2020-16,2019/2020,39,2020-04-19,36,Norge
+day,nation,norge,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-20,85,Norge
+day,nation,norge,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-21,78,Norge
+day,nation,norge,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-22,77,Norge
+day,nation,norge,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-23,69,Norge
+day,nation,norge,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-24,54,Norge
+day,nation,norge,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-25,25,Norge
+day,nation,norge,2020,total,total,2020,17,2020-17,2019/2020,40,2020-04-26,36,Norge
+day,nation,norge,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-27,71,Norge
+day,nation,norge,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-28,50,Norge
+day,nation,norge,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-29,39,Norge
+day,nation,norge,2020,total,total,2020,18,2020-18,2019/2020,41,2020-04-30,39,Norge
+day,nation,norge,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-01,42,Norge
+day,nation,norge,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-02,23,Norge
+day,nation,norge,2020,total,total,2020,18,2020-18,2019/2020,41,2020-05-03,44,Norge
+day,nation,norge,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-04,45,Norge
+day,nation,norge,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-05,42,Norge
+day,nation,norge,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-06,39,Norge
+day,nation,norge,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-07,29,Norge
+day,nation,norge,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-08,42,Norge
+day,nation,norge,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-09,11,Norge
+day,nation,norge,2020,total,total,2020,19,2020-19,2019/2020,42,2020-05-10,12,Norge
+day,nation,norge,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-11,23,Norge
+day,nation,norge,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-12,19,Norge
+day,nation,norge,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-13,19,Norge
+day,nation,norge,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-14,23,Norge
+day,nation,norge,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-15,21,Norge
+day,nation,norge,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-16,13,Norge
+day,nation,norge,2020,total,total,2020,20,2020-20,2019/2020,43,2020-05-17,3,Norge
+day,nation,norge,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-18,17,Norge
+day,nation,norge,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-19,20,Norge
+day,nation,norge,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-20,19,Norge
+day,nation,norge,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-21,14,Norge
+day,nation,norge,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-22,26,Norge
+day,nation,norge,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-23,5,Norge
+day,nation,norge,2020,total,total,2020,21,2020-21,2019/2020,44,2020-05-24,6,Norge
+day,nation,norge,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-25,18,Norge
+day,nation,norge,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-26,12,Norge
+day,nation,norge,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-27,18,Norge
+day,nation,norge,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-28,12,Norge
+day,nation,norge,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-29,16,Norge
+day,nation,norge,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-30,0,Norge
+day,nation,norge,2020,total,total,2020,22,2020-22,2019/2020,45,2020-05-31,6,Norge
+day,nation,norge,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-01,7,Norge
+day,nation,norge,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-02,21,Norge
+day,nation,norge,2020,total,total,2020,23,2020-23,2019/2020,46,2020-06-03,1,Norge
