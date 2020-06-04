@@ -1,29 +1,31 @@
 This documentation was last updated on 2020-06-04.
 
 This is the documentation for the files:
-- data_covid19_msis_by_time_location_YYYY-MM-DD.xlsx
-- data_covid19_msis_by_time_location_YYYY-MM-DD.csv
+- data_covid19_msis_by_location_YYYY-MM-DD.xlsx
+- data_covid19_msis_by_location_YYYY-MM-DD.csv
 
-These files contain daily COVID-19 epicurves for Norway and the counties of Norway
+These files contain the total number of reported COVID-19 cases for Norway, the counties of Norway, and the municipalities of Norway.
 
 If something does not appear to be correct, or more documentation is needed in a particular area, or you have suggestions about the way the data is presented/formatted, please email RichardAubrey.White@fhi.no
 
 These files are generated automatically each day through an extraction from MSIS.
 
+Note: granularity_time='total' means the cumulative total for the entire time period.
+
 The variables available are listed below:
-granularity_time: Temporal granularity (day)
-granularity_geo: Geographical granularity (nation and county)
+granularity_time: Temporal granularity (total)
+granularity_geo: Geographical granularity (nation, county, and municip)
 location_code: The geographical location
 border: The borders (kommunesammenslåing) that location_code represents
 age: Age in years
 sex: Sex
-year: Isoyear (prøvetakingsdato)
-week: Isoweek (prøvetakingsdato)
-yrwk: YYYY-WW (prøvetakingsdato)
-season: Seasons run week 30 -> week 29
-x: Week within season
-date: Date of the data (prøvetakingsdato)
-n: Number of confirmed cases
+year: N/A
+week: N/A
+yrwk: N/A
+season: N/A
+x: N/A
+date: N/A
+n: Total number of confirmed cases
 pop: Population obtained from SSB
 pr100000: 100000*n/pop
 location_name: The name of the geographical location
