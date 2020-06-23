@@ -1,0 +1,28 @@
+This documentation was last updated on 2020-06-23.
+
+This is the documentation for the files:
+- data_covid19_lab_by_time_YYYY-MM-DD.xlsx
+- data_covid19_lab_by_time_YYYY-MM-DD.csv
+
+These files contain daily numbers of people tested for COVID-19 in Norway
+
+If something does not appear to be correct, or more documentation is needed in a particular area, or you have suggestions about the way the data is presented/formatted, please email RichardAubrey.White@fhi.no
+
+These files are generated automatically each day through an extraction from databases.
+
+The variables available are listed below:
+granularity_time: Temporal granularity (day)
+granularity_geo: Geographical granularity (nation)
+location_code: The geographical location
+border: The borders (kommunesammenslåing) that location_code represents
+age: Age in years
+sex: Sex
+year: Isoyear
+week: Isoweek
+yrwk: YYYY-WW
+season: Seasons run week 30 -> week 29
+x: Week within season
+date: Date
+n_neg: Number of people who received a negative test
+n_pos: Number of people who received a positive test
+pr100_pos: 100*n_pos/(n_pos+n_neg)
