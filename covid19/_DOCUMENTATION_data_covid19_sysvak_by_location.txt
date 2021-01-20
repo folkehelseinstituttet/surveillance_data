@@ -1,0 +1,35 @@
+This documentation was last updated on 2021-01-19.
+
+This is the documentation for the files:
+- data_covid19_sysvak_by_location_YYYY-MM-DD.xlsx
+- data_covid19_sysvak_by_location_YYYY-MM-DD.csv
+
+These files contain daily numbers of people who have been vaccinated for COVID-19 in Norway
+
+The date given in the filename is the date of publishing. The totals inside this file correspond to the day before the date of publishing. That is, if the date of publishing is 2021-01-11, then the totals correspond to vaccines delivered before 2021-01-11 00:01.
+
+If something does not appear to be correct, or more documentation is needed in a particular area, or you have suggestions about the way the data is presented/formatted, please email RichardAubrey.White@fhi.no
+
+These files are generated automatically each day through an extraction from databases.
+
+Note: granularity_time='total' means the cumulative total for the entire time period.
+
+The variables available are listed below:
+granularity_time: Temporal granularity (total)
+granularity_geo: Geographical granularity (nation, county, and municip)
+location_code: The geographical location
+border: The borders (kommunesammenslåing) that location_code represents
+age: Age in years
+sex: Sex
+year: N/A
+week: N/A
+yrwk: N/A
+season: N/A
+x: N/A
+date: N/A
+n_dose_1: Total number of people who have received their first dose of a COVID-19 vaccine
+n_dose_2: Total number of people who have received their second dose of a COVID-19 vaccine
+pr100_dose_1: Percentage of the population who have received their first dose of a COVID-19 vaccine (i.e. 100*n_dose_1/pop)
+pr100_dose_2: Percentage of population who have received their second dose of a COVID-19 vaccine (i.e. 100*n_dose_2/pop)
+pop: Population obtained from SSB
+location_name: The name of the geographical location
