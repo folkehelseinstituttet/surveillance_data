@@ -1,8 +1,9 @@
-This documentation was last updated on 2020-06-24.
+This documentation was last updated on 2021-02-05.
 
 This is the documentation for the files:
 - data_covid19_demographics_YYYY-MM-DD.xlsx
 - data_covid19_demographics_YYYY-MM-DD.csv
+- data_covid19_demographics_latest.csv
 
 These files contain demographic numbers related to COVID-19 in Norway
 
@@ -25,3 +26,4 @@ x: N/A
 date: N/A
 tag_outcome: The outcome that is being described (deaths)
 n: Total number of people corresponding to this location_code/age/sex/tag_outcome combination
+date_of_publishing: The date of publishing

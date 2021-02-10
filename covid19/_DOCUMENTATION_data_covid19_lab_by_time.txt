@@ -1,8 +1,9 @@
-This documentation was last updated on 2020-06-23.
+This documentation was last updated on 2021-02-05.
 
 This is the documentation for the files:
 - data_covid19_lab_by_time_YYYY-MM-DD.xlsx
 - data_covid19_lab_by_time_YYYY-MM-DD.csv
+- data_covid19_lab_by_time_latest.csv
 
 These files contain daily numbers of people tested for COVID-19 in Norway
 
@@ -26,3 +27,4 @@ date: Date
 n_neg: Number of people who received a negative test
 n_pos: Number of people who received a positive test
 pr100_pos: 100*n_pos/(n_pos+n_neg)
+date_of_publishing: The date of publishing

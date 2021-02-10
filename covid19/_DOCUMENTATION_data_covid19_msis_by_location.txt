@@ -1,8 +1,9 @@
-This documentation was last updated on 2020-06-04.
+This documentation was last updated on 2021-02-05.
 
 This is the documentation for the files:
 - data_covid19_msis_by_location_YYYY-MM-DD.xlsx
 - data_covid19_msis_by_location_YYYY-MM-DD.csv
+- data_covid19_msis_by_location_latest.csv
 
 These files contain the total number of reported COVID-19 cases for Norway, the counties of Norway, and the municipalities of Norway.
 
@@ -29,3 +30,4 @@ n: Total number of confirmed cases
 pop: Population obtained from SSB
 pr100000: 100000*n/pop
 location_name: The name of the geographical location
+date_of_publishing: The date of publishing

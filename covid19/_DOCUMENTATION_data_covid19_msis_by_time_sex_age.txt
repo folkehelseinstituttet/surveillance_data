@@ -1,9 +1,10 @@
-This documentation was last updated on 2020-06-23.
+This documentation was last updated on 2021-02-05.
 
 This is the documentation for the files:
 - data_covid19_msis_by_time_sex_age_YYYY-MM-DD.xlsx
 - data_covid19_msis_by_time_sex_age_YYYY-MM-DD.csv
 
+- data_covid19_msis_by_time_sex_age_latest.csv
 These files contain weekly COVID-19 epicurves for Norway by age and sex
 
 If something does not appear to be correct, or more documentation is needed in a particular area, or you have suggestions about the way the data is presented/formatted, please email RichardAubrey.White@fhi.no
@@ -24,3 +25,4 @@ season: Seasons run week 30 -> week 29
 x: Week within season
 date: Date corresponding to Sunday of the week
 n: Number of confirmed cases
+date_of_publishing: The date of publishing

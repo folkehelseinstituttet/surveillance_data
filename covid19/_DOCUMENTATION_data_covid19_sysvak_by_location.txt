@@ -1,8 +1,9 @@
-This documentation was last updated on 2021-01-19.
+This documentation was last updated on 2021-02-05.
 
 This is the documentation for the files:
 - data_covid19_sysvak_by_location_YYYY-MM-DD.xlsx
 - data_covid19_sysvak_by_location_YYYY-MM-DD.csv
+- data_covid19_sysvak_by_location_latest.csv
 
 These files contain daily numbers of people who have been vaccinated for COVID-19 in Norway
 
@@ -33,3 +34,4 @@ pr100_dose_1: Percentage of the population who have received their first dose of
 pr100_dose_2: Percentage of population who have received their second dose of a COVID-19 vaccine (i.e. 100*n_dose_2/pop)
 pop: Population obtained from SSB
 location_name: The name of the geographical location
+date_of_publishing: The date of publishing
