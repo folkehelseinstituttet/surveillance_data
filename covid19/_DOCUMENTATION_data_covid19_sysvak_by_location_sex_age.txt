@@ -1,9 +1,9 @@
 This documentation was last updated on 2021-02-12.
 
 This is the documentation for the files:
-- data_covid19_sysvak_by_location_YYYY-MM-DD.xlsx
-- data_covid19_sysvak_by_location_YYYY-MM-DD.csv
-- data_covid19_sysvak_by_location_latest.csv
+- data_covid19_sysvak_by_location_sex_age_YYYY-MM-DD.xlsx
+- data_covid19_sysvak_by_location_sex_age_YYYY-MM-DD.csv
+- data_covid19_sysvak_by_location_sex_age_latest.csv
 
 These files contain the total number of people who have been registered in SYSVAK as vaccinated for COVID-19 in Norway
 

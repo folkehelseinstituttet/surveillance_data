@@ -1,11 +1,11 @@
-This documentation was last updated on 2021-02-05.
+This documentation was last updated on 2021-02-12.
 
 This is the documentation for the files:
 - data_covid19_sysvak_by_time_location_YYYY-MM-DD.xlsx
 - data_covid19_sysvak_by_time_location_YYYY-MM-DD.csv
 - data_covid19_sysvak_by_time_location_latest.csv
 
-These files contain daily numbers of people who have been vaccinated for COVID-19 in Norway
+These files contain daily numbers of people who have been registered in SYSVAK as vaccinated for COVID-19 in Norway
 
 If something does not appear to be correct, or more documentation is needed in a particular area, or you have suggestions about the way the data is presented/formatted, please email RichardAubrey.White@fhi.no
 
