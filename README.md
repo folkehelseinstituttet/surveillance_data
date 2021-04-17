@@ -1,3 +1,6 @@
+# There is a problem with the numbers in the files from 2021_04_15 until todays date. We are sorry for this. This will be fixed on Monday morning. 
+#####################################################################################################################################################
+
 # Available COVID-19 datasets
 
 - [covid19/data_covid19_demographics_YYYY_MM_DD](https://github.com/folkehelseinstituttet/surveillance_data/blob/master/covid19/_DOCUMENTATION_data_covid19_demographics.txt) **First published 2020-06-25.** Contains demographic information about deaths.
