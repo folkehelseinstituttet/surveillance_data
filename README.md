@@ -1,4 +1,6 @@
-# There is a problem with the numbers in the files from 2021_04_15 until todays date. We are sorry for this. This will be fixed on Monday morning. 
+# 2021_04_16: There is an error in the file from 2021_04_16, PLEASE DO NOT USE THIS FILE.
+
+# From 2021_04_19: There is a change in the dates displayed in the file "data_covid19_lab_by_time_". This file will from this point only show data from 2020_04_01. This is because of a change to using MSIS data instead of laboratory data.
 #####################################################################################################################################################
 
 # Available COVID-19 datasets
