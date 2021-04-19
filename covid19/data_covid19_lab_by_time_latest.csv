@@ -1,5 +1,4 @@
 granularity_time,granularity_geo,location_code,border,age,sex,year,week,yrwk,season,x,date,n_neg,n_pos,pr100_pos,date_of_publishing
-day,nation,norge,2020,total,total,2020,14,2020-14,2019/2020,37,2020-03-31,102352,208,0.2,2021-04-19
 day,nation,norge,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-01,3739,198,5,2021-04-19
 day,nation,norge,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-02,3362,198,5.6,2021-04-19
 day,nation,norge,2020,total,total,2020,14,2020-14,2019/2020,37,2020-04-03,3392,164,4.6,2021-04-19
