@@ -1,4 +1,4 @@
-This documentation was last updated on 2021-02-05.
+This documentation was last updated on 2021-04-19.
 
 This is the documentation for the files:
 - data_covid19_lab_by_time_YYYY-MM-DD.xlsx
@@ -28,3 +28,6 @@ n_neg: Number of people who received a negative test
 n_pos: Number of people who received a positive test
 pr100_pos: 100*n_pos/(n_pos+n_neg)
 date_of_publishing: The date of publishing
+
+
+The file published 2021-04-16 has an error relating to the number of negative tests on 2020-05-30. This error is corrected in the file published 2021-04-19.
