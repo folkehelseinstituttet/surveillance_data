@@ -31,4 +31,3 @@ date_of_publishing: The date of publishing
 
 
 The file published 2021-04-16 has an error relating to the number of negative tests on 2020-05-30. This error is corrected in the file published 2021-04-19.
-From 2021-04-19, this file has been changed to only show data from 2020-04-01 and onwards.
