@@ -1,3 +1,5 @@
+# 2021_06_01 These will not be an update today due to technical reasons.
+
 # 2021_04_30: There was earlier some missing values in the covid-19 SYSVAK data, this has been fixed, but can cause changes in the numbers in some areas.
 
 # 2021_04_16: There is an error in the file from 2021_04_16, PLEASE DO NOT USE THIS FILE.
