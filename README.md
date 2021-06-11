@@ -1,3 +1,5 @@
+# 2021_06_11: SYSVAK data has not been updated today because of problems with the SYSVAK database
+
 # 2021_06_07: SYSVAK data has not been updated today because of problems with the SYSVAK database.
 
 # 2021_04_30: There was earlier some missing values in the covid-19 SYSVAK data, this has been fixed, but can cause changes in the numbers in some areas.
