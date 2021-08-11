@@ -1,4 +1,4 @@
-This documentation was last updated on 2021-02-12.
+This documentation was last updated on 2021-08-06.
 
 This is the documentation for the files:
 - data_covid19_sysvak_by_location_sex_age_YYYY-MM-DD.xlsx
@@ -20,8 +20,8 @@ granularity_time: Temporal granularity (total)
 granularity_geo: Geographical granularity (nation, county, and municip)
 location_code: The geographical location
 border: The borders (kommunesammenslåing) that location_code represents
-age: Age in years
-sex: Sex
+age: Age in intervals(00-15, 16-17, 18-24, 25-39, 40-44, 45-54, 55-64, 65-74- 75-84 and 85+
+sex: The sex, either male or female
 year: N/A
 week: N/A
 yrwk: N/A
