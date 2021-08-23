@@ -28,8 +28,8 @@ yrwk: N/A
 season: N/A
 x: N/A
 date: N/A
-n_dose_1: Total number of people who have received their first dose of a COVID-19 vaccine
-n_dose_2: Total number of people who have received their second dose of a COVID-19 vaccine
+n_dose_1: Total number of people who have received their first dose of a COVID-19 vaccine. Values less than five are censored to zero.
+n_dose_2: Total number of people who have received their second dose of a COVID-19 vaccine. Values less than five are censored to zero.
 pr100_dose_1: Percentage of the population who have received their first dose of a COVID-19 vaccine (i.e. 100*n_dose_1/pop)
 pr100_dose_2: Percentage of population who have received their second dose of a COVID-19 vaccine (i.e. 100*n_dose_2/pop)
 pop: Population obtained from SSB
