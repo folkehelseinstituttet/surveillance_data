@@ -1,3 +1,5 @@
+# 2021_09_08: SYSVAK data has not been updated today because of problems with the SYSVAK database
+
 # 2021_06_30: The number of tested in this github data is not identical to the number of tested in the weekly covid-19 report made by FHI today. This is because the weekly report do include PCR and Antigen test, while this data only include only PCR tested.
 
 # 2021_06_11: SYSVAK data has not been updated today because of problems with the SYSVAK database
