@@ -20,7 +20,7 @@ granularity_time: Temporal granularity (total)
 granularity_geo: Geographical granularity (nation, county, and municip)
 location_code: The geographical location
 border: The borders (kommunesammenslåing) that location_code represents
-age: Age in intervals(00-15, 16-17, 18-24, 25-39, 40-44, 45-54, 55-64, 65-74- 75-84 and 85+
+age: Age in intervals(12-15, 16-17, 18-24, 25-39, 40-44, 45-54, 55-64, 65-74- 75-84 and 85+
 sex: The sex, either male or female
 year: N/A
 week: N/A
