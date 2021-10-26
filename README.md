@@ -1,4 +1,4 @@
-# 2021_10_26: NIPaR data (hospitalisations) has not been updated because of problems with the NIPaR database. It expected to be updated tomorrow (27th of October).
+# 2021_10_26: NIPaR data (hospitalisations) has not been updated because of problems with the NIPaR database. It is expected to be updated tomorrow (27th of October).
 
 # 2021_09_08: SYSVAK data has not been updated today because of problems with the SYSVAK database
 
