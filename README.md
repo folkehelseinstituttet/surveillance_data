@@ -1,20 +1,23 @@
-# 2021_11_18: The SYSVAK data published today (2021-11-18) at the municipality level was incorrect. The error has been corrected in the data published 2021-11-19.
+# Important notes
 
-# 2021_10_26: NIPaR data (hospitalisations) has not been updated because of problems with the NIPaR database. It is expected to be updated tomorrow (27th of October).
+- 2021-11-18: The SYSVAK data published today (2021-11-18) at the municipality level was incorrect. The error has been corrected in the data published 2021-11-19.
 
-# 2021_09_08: SYSVAK data has not been updated today because of problems with the SYSVAK database
+- 2021-10-26: NIPaR data (hospitalisations) has not been updated because of problems with the NIPaR database. It is expected to be updated tomorrow (27th of October).
 
-# 2021_06_30: The number of tested in this github data is not identical to the number of tested in the weekly covid-19 report made by FHI today. This is because the weekly report do include PCR and Antigen test, while this data only include only PCR tested.
+- 2021-09-08: SYSVAK data has not been updated today because of problems with the SYSVAK database
 
-# 2021_06_11: SYSVAK data has not been updated today because of problems with the SYSVAK database
+- 2021-06-30: The number of tested in this github data is not identical to the number of tested in the weekly covid-19 report made by FHI today. This is because the weekly report do include PCR and Antigen test, while this data only include only PCR tested.
 
-# 2021_06_07: SYSVAK data has not been updated today because of problems with the SYSVAK database.
+- 2021-06-11: SYSVAK data has not been updated today because of problems with the SYSVAK database
 
-# 2021_04_30: There was earlier some missing values in the covid-19 SYSVAK data, this has been fixed, but can cause changes in the numbers in some areas.
+- 2021-06-07: SYSVAK data has not been updated today because of problems with the SYSVAK database.
 
-# 2021_04_16: There is an error in the file from 2021_04_16, PLEASE DO NOT USE THIS FILE.
+- 2021-04-30: There was earlier some missing values in the covid-19 SYSVAK data, this has been fixed, but can cause changes in the numbers in some areas.
 
-# From 2021_04_19: There is a change in the dates displayed in the file "data_covid19_lab_by_time_". This file will from this point only show data from 2020_04_01. This is because of a change to using MSIS data instead of laboratory data.
+- 2021-04-16: There is an error in the file from 2021_04_16, PLEASE DO NOT USE THIS FILE.
+
+- From 2021_04_19: There is a change in the dates displayed in the file "data_covid19_lab_by_time_". This file will from this point only show data from 2020_04_01. This is because of a change to using MSIS data instead of laboratory data.
+
 #####################################################################################################################################################
 
 # Available COVID-19 datasets
