@@ -1,3 +1,5 @@
+# 2021_11_18: The SYSVAK data published today (2021-11-19) at the municipality level was incorrect. The error has been corrected in the data published 2021-11-19.
+
 # 2021_10_26: NIPaR data (hospitalisations) has not been updated because of problems with the NIPaR database. It is expected to be updated tomorrow (27th of October).
 
 # 2021_09_08: SYSVAK data has not been updated today because of problems with the SYSVAK database
