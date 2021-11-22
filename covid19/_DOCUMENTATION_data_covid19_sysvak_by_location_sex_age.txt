@@ -30,8 +30,10 @@ x: N/A
 date: N/A
 n_dose_1: Total number of people who have received their first dose of a COVID-19 vaccine. Values less than five are censored to zero.
 n_dose_2: Total number of people who have received their second dose of a COVID-19 vaccine. Values less than five are censored to zero.
+n_dose_3_all: (Added 2021-11-22) Number of people who received their third dose of a COVID-19 vaccine on the given date. Values less than five are censored to zero. Ages 12-15 and 16-17 have been censored. Municipality data has been censored. (Note that this has been given the suffix '3_all' to future-proof the dataset, as in the future different variables/definitions may be published regarding a 'third dose'.)
 pr100_dose_1: Percentage of the population who have received their first dose of a COVID-19 vaccine (i.e. 100*n_dose_1/pop)
 pr100_dose_2: Percentage of population who have received their second dose of a COVID-19 vaccine (i.e. 100*n_dose_2/pop)
+pr100_dose_3_all: Percentage of population who have received their second dose of a COVID-19 vaccine (i.e. 100*n_dose_2/pop). Ages 12-15 and 16-17 have been censored. Municipality data has been censored. (Note that this has been given the suffix '3_all' to future-proof the dataset, as in the future different variables/definitions may be published regarding a 'third dose'.)
 pop: Population obtained from SSB
 location_name: The name of the geographical location
 date_of_publishing: The date of publishing
