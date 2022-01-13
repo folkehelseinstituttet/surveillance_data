@@ -19,8 +19,6 @@
 
 - From 2021_04_19: There is a change in the dates displayed in the file "data_covid19_lab_by_time_". This file will from this point only show data from 2020_04_01. This is because of a change to using MSIS data instead of laboratory data.
 
-#####################################################################################################################################################
-
 # Available COVID-19 datasets
 
 - [covid19/data_covid19_demographics_YYYY_MM_DD](https://github.com/folkehelseinstituttet/surveillance_data/blob/master/covid19/_DOCUMENTATION_data_covid19_demographics.txt) **First published 2020-06-25.** Contains demographic information about deaths.
@@ -56,4 +54,4 @@ The purpose of this repository is to make surveillance data easily accessible fr
 
 Documentation for each dataset is available in text files beginning with \_DOCUMENTATION\_
 
-If something does not appear to be correct, or more documentation is needed in a particular area, or you have suggestions about the way the data is presented/formatted, please email RichardAubrey.White@fhi.no
+If something does not appear to be correct, or more documentation is needed in a particular area, or you have suggestions about the way the data is presented/formatted, please email the following three email addresses simultaneously: sykdomspulsen@fhi.no, RichardAubrey.White@fhi.no, and CelineVictoria.Berg-Hansen@fhi.no
