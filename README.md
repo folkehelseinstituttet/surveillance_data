@@ -1,4 +1,6 @@
 # Important notes
+- 2022-01-21: The number of Covid-19 cases from Furst laboratories has been delayed in MSIS. This will be updated in the next few days. Once updated, the result will be that the number of cases registered from 15. January will increase by approx 5000-8000.
+
 - 2022-01-05: The vaccination data may be different in this site compared to the covid-19 weekly report. This is because the denominator used in this site is based on SSB-data while the weekly report is based on Folkeregister-data. In addition, in the weekly report the age is calculated as of 31-12-2022 (whole yearly cohorts), while this page gives vaccination data based on age at date of vaccination.  
 
 - 2021-11-18: The SYSVAK data published today (2021-11-18) at the municipality level was incorrect. The error has been corrected in the data published 2021-11-19.
