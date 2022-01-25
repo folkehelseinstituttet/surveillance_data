@@ -1,4 +1,6 @@
 # Important notes
+- 2022-01-24: Persons with a 3rd dose (refreshment dose) or 2 doses of corona vaccination and have undergone covid-19 the last 3 months will as a general rule no longer be offered a confirmatory PCR test. This will affect the number of cases reported to MSIS, primarily in the population over the age of 18, where we will capture a lower proportion of those infected than before. Data on reported cases are therefore not directly comparable over time.
+
 - 2022-01-21: The number of Covid-19 cases from Furst laboratories has been delayed in MSIS. This will be updated in the next few days. Once updated, the result will be that the number of cases registered from 15. January will increase by approx 5000-8000.
 
 - 2022-01-05: The vaccination data may be different in this site compared to the covid-19 weekly report. This is because the denominator used in this site is based on SSB-data while the weekly report is based on Folkeregister-data. In addition, in the weekly report the age is calculated as of 31-12-2022 (whole yearly cohorts), while this page gives vaccination data based on age at date of vaccination.  
