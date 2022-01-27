@@ -1,4 +1,6 @@
 # Important notes
+- 2022-01-27: The calculation of age for vaccinated individuals has changed from age at time of vaccination to age calculated as year of vaccination minus birth year. This means age will be presented as age groups(cohorts) after year of vaccination. The change also applies to data back in time.
+
 - 2022-01-24: Persons with a 3rd dose (refreshment dose) or 2 doses of corona vaccination and have undergone covid-19 the last 3 months will as a general rule no longer be offered a confirmatory PCR test. This will affect the number of cases reported to MSIS, primarily in the population over the age of 18, where we will capture a lower proportion of those infected than before. Data on reported cases are therefore not directly comparable over time.
 
 - 2022-01-21: The number of Covid-19 cases from Furst laboratories has been delayed in MSIS. This will be updated in the next few days. Once updated, the result will be that the number of cases registered from 15. January will increase by approx 5000-8000.
