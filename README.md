@@ -1,4 +1,7 @@
 # Important notes
+
+- 2022-03-07: Norwegian population data from 2022 is going to be used starting from 2022-03-10. Relevant changes are made in the R package `fhidata`. Affected datasets are norway_population_by_age_b2020, norway_population_by_age_sex_b2020; affected functions are norway_population_by_age_b2020, norway_population_by_age_sex_b2020. 
+
 - 2022-02-03: There has been changes in the data from SYSVAK for covid-19 vaccination, which means that individuals with old municipality or county number will be registered as “unknown”. The change also applies to data back in time.
 
 - 2022-01-27: The calculation of age for vaccinated individuals has changed from age at time of vaccination to age calculated as year of vaccination minus birth year. This means age will be presented as age groups(cohorts) after year of vaccination. The change also applies to data back in time.
