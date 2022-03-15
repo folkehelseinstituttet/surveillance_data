@@ -1,4 +1,6 @@
 # Important notes
+- 2022-03.17: The Covid-19 deaths data will from this date come from DÅR via Beredt C-19 instead of from MSIS. This is because the DÅR data is more up to date at this point. The new file will get a new name and the file will not include sex, age and counties. The file will be updated every Tuesday morning.
+
 - 2022-03-14: Due to technical problems in SYSVAK, data on covid-19 vaccination have not been updated since 10th of March. SYSVAK is working to rectify the problem.
 
 - 2022-03-07: Norwegian population data from 2022 is going to be used starting from 2022-03-10. Relevant changes are made in the R package `fhidata`. Affected datasets are norway_population_by_age_b2020, norway_population_by_age_sex_b2020; affected functions are norway_population_by_age_b2020, norway_population_by_age_sex_b2020. 
