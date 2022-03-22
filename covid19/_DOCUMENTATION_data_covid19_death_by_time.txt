@@ -1,3 +1,28 @@
-This documentation was last updated on 2020-06-24.
+This documentation was last updated on 2021-02-05.
 
-Please see file _DOCUMENTATION_data_covid19_death_by_time.txt
+This is the documentation for the files:
+- data_covid19_death_by_time_YYYY-MM-DD.xlsx
+- data_covid19_death_by_time_YYYY-MM-DD.csv
+- data_covid19_death_by_time_latest.csv
+
+These files contain numbers per week of fatal cases related to COVID-19 in Norway
+
+If something does not appear to be correct, or more documentation is needed in a particular area, or you have suggestions about the way the data is presented/formatted, please email RichardAubrey.White@fhi.no
+
+These files are generated automatically each day through an extraction from databases.
+
+The variables available are listed below:
+granularity_time: Temporal granularity (day)
+granularity_geo: Geographical granularity (nation)
+location_code: The geographical location
+border: The borders (kommunesammenslåing) that location_code represents
+age: Age in years
+sex: Sex
+year: N/A
+week: N/A
+yrwk: N/A
+season: N/A
+x: N/A
+date: N/A
+n: Number of fatal cases due to COVID-19
+date_of_publishing: The date of publishing
