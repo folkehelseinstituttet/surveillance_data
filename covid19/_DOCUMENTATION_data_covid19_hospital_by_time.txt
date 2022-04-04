@@ -26,5 +26,4 @@ x: Week within season
 date: Date
 n_icu: Number of people who were admitted to an ICU today due to COVID-19
 n_hospital_main_cause: Number of people who were admitted to a hospital with COVID-19 as the main cause
-n_hospital_all_causes: Number of people who were admitted to a hospital with COVID-19
 date_of_publishing: The date of publishing
