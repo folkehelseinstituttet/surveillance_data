@@ -1,4 +1,6 @@
 # Important notes
+- 2022-04-04: Hospital all causes data will no longer be presented as a part of the Covid-19 statistics. This is due to the fact that it no longer gets updated from NoPAR and will give an underestimated number.
+
 - 2022-03-18: Due to technical problems in SYSVAK, data on covid-19 vaccination have not been updated since 16th of March. SYSVAK is working to rectify the problem.
 
 - 2022-03.17: The Covid-19 deaths data will from this date come from DÅR via Beredt C-19 instead of from MSIS. This is because the DÅR data is more up to date at this point. The new file will get a new name and the file will not include sex, age and counties. The file will be updated every Tuesday morning.
