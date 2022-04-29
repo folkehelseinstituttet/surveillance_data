@@ -45,8 +45,8 @@
 - [covid19/data_covid19_msis_by_location_YYYY_MM_DD](https://github.com/folkehelseinstituttet/surveillance_data/blob/master/covid19/_DOCUMENTATION_data_covid19_msis_by_location.txt) **First published 2020-06-04.** Contains the number of people diagnosed with COVID-19 per location.
 - [covid19/data_covid19_msis_by_time_location_YYYY_MM_DD](https://github.com/folkehelseinstituttet/surveillance_data/blob/master/covid19/_DOCUMENTATION_data_covid19_msis_by_time_location.txt) **First published 2020-04-24.** Contains the number of people diagnosed with COVID-19 per location and day (i.e. epicurves).
 - [covid19/data_covid19_msis_by_time_sex_age_YYYY_MM_DD](https://github.com/folkehelseinstituttet/surveillance_data/blob/master/covid19/_DOCUMENTATION_data_covid19_msis_by_time_sex_age.txt) **First published 2020-06-23.** Contains information about the sex/age of people diagnosed with COVID-19 over time.
-- covid19/data_covid19_sysvak_by_location_YYYY_MM_DD **First published 2021-01-20.** Contains the number of people who have been vaccinated for COVID-19 per location.
-- covid19/data_covid19_sysvak_by_time_location_YYYY_MM_DD **First published 2021-01-20.** Contains the number of people who have been vaccinated for COVID-19 per location and day.
+- [covid19/data_covid19_sysvak_by_location_YYYY_MM_DD](https://github.com/folkehelseinstituttet/surveillance_data/blob/master/covid19/_DOCUMENTATION_data_covid19_sysvak_by_location.txt) **First published 2021-01-20.** Contains the number of people who have been vaccinated for COVID-19 per location.
+- [covid19/data_covid19_sysvak_by_time_location_YYYY_MM_DD](https://github.com/folkehelseinstituttet/surveillance_data/blob/master/covid19/_DOCUMENTATION_data_covid19_sysvak_by_time_location.txt) **First published 2021-01-20.** Contains the number of people who have been vaccinated for COVID-19 per location and day.
 
 # Note about "missing data" in the covid19 folder
 
