@@ -1,4 +1,6 @@
 # Important notes
+- 2022-06-08: Due to technical problems in SYSVAK, data on vaccination have not been updated today. SYSVAK is working to rectify the problem.
+
 - 2022-04-04: Data for hospitalization all causes will no longer be presented as a part of the covid-19 statistics. This is due to the fact that it no longer gets updated from NoPAR and will give an underestimated number.
 
 - 2022-03-18: Due to technical problems in SYSVAK, data on covid-19 vaccination have not been updated since 16th of March. SYSVAK is working to rectify the problem.
