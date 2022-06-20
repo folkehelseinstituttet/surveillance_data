@@ -1,4 +1,4 @@
-This documentation was last updated on 2021-02-12.
+This documentation was last updated on 2022-06-16.
 
 This is the documentation for the files:
 - data_covid19_sysvak_by_location_YYYY-MM-DD.xlsx
@@ -30,10 +30,12 @@ x: N/A
 date: N/A
 n_dose_1: Total number of people who have received their first dose of a COVID-19 vaccine. Values less than five are censored to zero.
 n_dose_2: Total number of people who have received their second dose of a COVID-19 vaccine. Values less than five are censored to zero.
-n_dose_3_all: (Added 2021-11-22) Number of people who received their third dose of a COVID-19 vaccine on the given date. Values less than five are censored to zero. (Note that this has been given the suffix '3_all' to future-proof the dataset, as in the future different variables/definitions may be published regarding a 'third dose'.)
+n_dose_3: (Added 2021-11-22) Number of people who received their third dose of a COVID-19 vaccine on the given date. Values less than five are censored to zero.
+n_dose_4: (Added 2022-06-16) Number of people who received their fourth dose of a COVID-19 vaccine on the given date. Values less than five are censored to zero.
 cum_pr100_dose_1: Cumulative percentage of the population who received their first dose of a COVID-19 vaccine on or before the given date (i.e. 100*n_dose_1/pop)
 cum_pr100_dose_2: Cumulative percentage of population who received their second dose of a COVID-19 vaccine on or before the given date (i.e. 100*n_dose_2/pop)
-cum_pr100_dose_3_all: Cumulative percentage of population who received their third dose of a COVID-19 vaccine on or before the given date (i.e. 100*n_dose_3_all/pop). (Note that this has been given the suffix '3_all' to future-proof the dataset, as in the future different variables/definitions may be published regarding a 'third dose'.)
+cum_pr100_dose_3: Cumulative percentage of population who received their third dose of a COVID-19 vaccine on or before the given date (i.e. 100*n_dose_3/pop).
+cum_pr100_dose_4: (Added 2022-06-16) Cumulative percentage of population who received their fourth dose of a COVID-19 vaccine on or before the given date (i.e. 100*n_dose_4/pop).
 pop: Population obtained from SSB
 location_name: The name of the geographical location
 date_of_publishing: The date of publishing
