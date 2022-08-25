@@ -10,8 +10,9 @@
 - [covid19/data_covid19_sysvak_by_time_location_YYYY_MM_DD](https://github.com/folkehelseinstituttet/surveillance_data/blob/master/covid19/_DOCUMENTATION_data_covid19_sysvak_by_time_location.txt) **First published 2021-01-20.** Contains the number of people who have been vaccinated for COVID-19 per location and day.
 
 # Important notes
+- 2022-08-25: Due to technical problems in NoPaR/NIR, data on hospitalisations and ICUs have not been updated today. NoPaR/NIR is working to rectify the problem. 
 
-- 20-06-2022: The 4th.dose of the covid-19 vaccine has been added to our statistics.
+- 2022-06-20: The 4th.dose of the covid-19 vaccine has been added to our statistics.
 The age groups have been changed from 75-84 years to 75-79 years and 80-84 years. This change in age groups will apply to all our data for covid-19 vaccination (including historical data). For dose 1, 2 and 3 the data will be censored if the 75-79 or 80-84 age group has fewer than 5 cases before 20th of June 2022. This is because data for the entire age group 75-84 have been available and when comparing old and new age groups can show less than 5.
 N.B. Sex and age groups will not be available on municipal level due to censoring.
 
