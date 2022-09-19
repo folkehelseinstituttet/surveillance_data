@@ -1,3 +1,18 @@
+# Shutting down the repository
+
+Dear users of our GitHub repository (https://github.com/folkehelseinstituttet/surveillance_data/), 
+
+FHI/NIPH is in the middle of a budget process, which entails that we have to look into areas where we can reduce our costs. One of the measures in this process will, amongst others, include workforce reductions and a prioritization of the products/deliveries we can continue to deliver. Sykdomspulsen's team and its deliveries are unfortunately no exception. Sykdomspulsen's team will most likely have to reduce its workforce substantially. This entails that we probably will not be able to continue to deliver data to this GitHub repository. 
+
+At this point we find it necessary to give you the unfortunate news that our deliverable "Surveillance data on GitHub" (https://github.com/folkehelseinstituttet/surveillance_data) will most likely stop from the 14th of October 2022.  
+
+We are sorry for the inconvenience this might be for you. We hope that this message will give you the opportunity to find another alternative. 
+
+If you have any questions or feedback, please send an e-mail to Sykdomspulsen (sykdomspulsen@fhi.no). 
+
+All the best,
+Sykdomspulsen team
+
 # Available COVID-19 datasets
 
 - [covid19/data_covid19_demographics_YYYY_MM_DD](https://github.com/folkehelseinstituttet/surveillance_data/blob/master/covid19/_DOCUMENTATION_data_covid19_demographics.txt) **First published 2020-06-25.** Contains demographic information about deaths.
