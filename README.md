@@ -1,5 +1,7 @@
 # Shutting down the repository
 
+2022-09-19
+
 Dear users of our GitHub repository (https://github.com/folkehelseinstituttet/surveillance_data/), 
 
 FHI/NIPH is in the middle of a budget process, which entails that we have to look into areas where we can reduce our costs. One of the measures in this process will, amongst others, include workforce reductions and a prioritization of the products/deliveries we can continue to deliver. Sykdomspulsen's team and its deliveries are unfortunately no exception. Sykdomspulsen's team will most likely have to reduce its workforce substantially. This entails that we probably will not be able to continue to deliver data to this GitHub repository. 
