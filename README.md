@@ -13,6 +13,7 @@ We are sorry for the inconvenience this might be for you. We hope that this mess
 If you have any questions or feedback, please send an e-mail to Sykdomspulsen (sykdomspulsen@fhi.no). 
 
 All the best,
+
 Sykdomspulsen team
 
 # Available COVID-19 datasets
