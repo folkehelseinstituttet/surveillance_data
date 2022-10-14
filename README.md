@@ -1,5 +1,23 @@
 # Shutting down the repository
 
+2022-10-14
+
+Dear users of our GitHub repository (https://github.com/folkehelseinstituttet/surveillance_data/), 
+
+With reference to the note on the 2022-09-19, FHI/NIPH understands that the that a possible loss of these deliveries will cause major inconvenience for the users, but in the demanding budget situation FHI/NIPH is in, FHI/NIPH will unfortunately have to make strict prioritizations that have consequences for recipients of FHI/NIPH services.
+
+FHI/NIPH has now decided to postpone the shutdown for a few weeks while FHI/NIPH works to find alternative solutions. Unfortunately, you users must be prepared that there may be a period where some of FHI/NIPH services are not available, and some may eventually completely disappear.
+
+FHI/NIPH will keep its users informed about the situation.
+
+If you have any questions or feedback, please send an e-mail to Sykdomspulsen (sykdomspulsen@fhi.no). 
+
+All the best,
+
+Sykdomspulsen team
+
+# Shutting down the repository
+
 2022-09-19
 
 Dear users of our GitHub repository (https://github.com/folkehelseinstituttet/surveillance_data/), 
