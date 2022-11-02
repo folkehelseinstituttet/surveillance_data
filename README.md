@@ -46,7 +46,7 @@ Sykdomspulsen team
 - [covid19/data_covid19_sysvak_by_time_location_YYYY_MM_DD](https://github.com/folkehelseinstituttet/surveillance_data/blob/master/covid19/_DOCUMENTATION_data_covid19_sysvak_by_time_location.txt) **First published 2021-01-20.** Contains the number of people who have been vaccinated for COVID-19 per location and day.
 
 # Important notes
-- 2022-11-02: Due to technical problems in NoPaR/NIR, data on hospitalisations and ICUs have not been updated today. NoPaR/NIR is working to rectify the problem.
+- 2022-11-02: Due to technical problems in Beredt C-19, data on hospitalisations and ICUs from NoPaR and NIR have not been updated today. Beredt C-19 is working to rectify the problem.
 - 2022-08-25: Due to technical problems in NoPaR/NIR, data on hospitalisations and ICUs have not been updated today. NoPaR/NIR is working to rectify the problem. 
 
 - 2022-06-20: The 4th.dose of the covid-19 vaccine has been added to our statistics.
