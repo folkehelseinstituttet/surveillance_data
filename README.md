@@ -1,5 +1,32 @@
 # Shutting down the repository
 
+2022-11-11
+
+Dear users of our GitHub repository (https://github.com/folkehelseinstituttet/surveillance_data/), 
+
+With reference to the note on the 2022-10-14, FHI/NIPH has worked intensively the past few weeks to find alternative solutions, but unfortunately do not see any other solution besides shutting the repository down on 2022-11-15. FHI/NIPH understands that the removal of this repository will have negative consequences for the users, but in this difficult budget situation FHI/NIPH must make such decisions, even though FHI/NIPH knows that this has consequences for the users of this service. FHI/NIPH will work in the future to find solutions, and FHI/NIPH asks the users to understand that this can take time.
+
+Statistics on the national and regional level (both for covid-19 infectious and vaccinations) can be found at https://statistikk.fhi.no, and weekly key indicators will be delivered in the weekly report for covid-19, influenza, and other respiratory infections.
+
+Kind regards
+
+Trygve Ottersen
+Area Director for Infectious Diseases
+Folkehelseinstituttet
+
+Kjære bruker av Sykdomspulsens leveranser
+ 
+Vi viser til tidligere kommunikasjon fra Folkehelseinstituttet med varsel om sannsynlig nedstengning av GitHub til media i høst. Vi har jobbet intenst de siste ukene med å finne alternative løsninger, men ser oss dessverre nødt til å stenge ned nettsiden fra 15. november. Vi har forståelse for at bortfall av disse leveransene vil medføre ulemper for dere brukere, men i den krevende budsjettsituasjonen vi står i blir vi dessverre nødt til å gjøre strenge prioriteringer, selv om vi vet det får konsekvenser for dere som mottar denne typen tjenester. Vi vil i tiden fremover jobbe videre for å finne løsninger på sikt, og ber om forståelse for at dette kan ta noe tid.
+ 
+Statistikk på nasjonalt og regionalt nivå både på covid-19-smitte og vaksinasjon finnes på www.statistikk.fhi.no, og ukentlige nøkkeltall vil bli levert i ukerapporten for covid-19, influensa og andre luftveisinfeksjoner.
+ 
+Vennlig hilsen
+ 
+Trygve Ottersen
+Områdedirektør Smittevern FHI
+
+# Shutting down the repository
+
 2022-10-14
 
 Dear users of our GitHub repository (https://github.com/folkehelseinstituttet/surveillance_data/), 
