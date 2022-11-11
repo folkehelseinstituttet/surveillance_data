@@ -4,7 +4,7 @@ Kjære bruker av Sykdomspulsens leveranser
  
 Vi viser til tidligere kommunikasjon fra Folkehelseinstituttet med varsel om sannsynlig nedstengning av GitHub til media i høst. Vi har jobbet intenst de siste ukene med å finne alternative løsninger, men ser oss dessverre nødt til å stenge ned nettsiden fra **15. november**. Vi har forståelse for at bortfall av disse leveransene vil medføre ulemper for dere brukere, men i den krevende budsjettsituasjonen vi står i blir vi dessverre nødt til å gjøre strenge prioriteringer, selv om vi vet det får konsekvenser for dere som mottar denne typen tjenester. Vi vil i tiden fremover jobbe videre for å finne løsninger på sikt, og ber om forståelse for at dette kan ta noe tid.
  
-Statistikk på nasjonalt og regionalt nivå både på covid-19-smitte og vaksinasjon finnes på www.statistikk.fhi.no, og ukentlige nøkkeltall vil bli levert i ukerapporten for covid-19, influensa og andre luftveisinfeksjoner.
+Statistikk på nasjonalt og regionalt nivå både på covid-19-smitte og vaksinasjon finnes på https://statistikk.fhi.no, og ukentlige nøkkeltall vil bli levert i ukerapporten for covid-19, influensa og andre luftveisinfeksjoner.
  
 Vennlig hilsen
  
