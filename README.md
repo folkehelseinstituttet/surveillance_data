@@ -11,7 +11,9 @@ Statistics on the national and regional level (both for covid-19 infectious and 
 Kind regards
 
 Trygve Ottersen
+
 Area Director for Infectious Diseases
+
 Folkehelseinstituttet
 
 Kjære bruker av Sykdomspulsens leveranser
@@ -23,6 +25,7 @@ Statistikk på nasjonalt og regionalt nivå både på covid-19-smitte og vaksina
 Vennlig hilsen
  
 Trygve Ottersen
+
 Områdedirektør Smittevern FHI
 
 # Shutting down the repository
