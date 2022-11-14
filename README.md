@@ -1,3 +1,7 @@
+# 2022-11-14 / Last date of data delivery
+
+Please note that today is the last day that data will be delivered to this repository.
+
 # 2022-11-11 / Shutting down the repository (Norsk)
 
 Kjære bruker av Sykdomspulsens leveranser
