@@ -1,3 +1,13 @@
+# 2022-11-14 / Goodbye
+
+This repository is now being archived (set to read-only).
+
+We, the Sykdomspulsen team, hope that the easy accessibility of machine-readable data helped you, the user, in whatever task you were doing.
+
+Feel free to contact us at sykdomspulsen@fhi.no
+
+Sykdomspulsen team
+
 # 2022-11-14 / Last date of data delivery
 
 Please note that today is the last day that data will be delivered to this repository.
